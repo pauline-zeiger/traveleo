@@ -1,0 +1,28 @@
+
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.5)100%, rgba(60,0,0,0.1) 0%), url(../../images/background.jpg);
+	color: #faf5e4;
+	padding:120px 0px;
+	background-size:cover;
+	background-position: 8% 50%;
+	margin-bottom: 30px
+}
+
+.banner h1 {
+	font-family: 'Abril Fatface', serif;
+	font-size: 60px
+	font-weight: lighter;
+
+}
+
+.banner h2{
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+	font-size: 18px;
+	padding: 0% 25% 0% 0%;
+}
+
+.banner a{
+	font-family: 'Abril Fatface', serif;
+	font-size: 18px;
+}

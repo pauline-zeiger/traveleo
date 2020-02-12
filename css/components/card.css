@@ -1,0 +1,44 @@
+.card {
+	background: white;
+	width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.card img {
+  width: 300px;
+  border-radius:7px;
+}
+.card h3 {
+  font-family: 'Abril Fatface', serif;
+  color: #2a4241;
+  font-weight: lighter;
+  font-size: 22px;
+  flex-grow: 1;
+  text-align: center;
+  border-bottom : 10px solid #faf5e4;
+  border-width: 16px;
+  line-height: 2px;
+}
+
+#id{
+
+}
+
+.cards {
+  	display: flex;
+	  flex-wrap: wrap;
+}
+.card{
+  	flex-basis: 250px;
+  	flex-direction: column;
+	  flex-grow: 1;
+	  margin: 20px;
+	  padding:0px 0px 20px 0px;
+}
+
+.card:hover{
+  	box-shadow: 0px 0px 10px rgba(42,66,65,0.2);
+}

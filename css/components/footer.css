@@ -1,0 +1,48 @@
+.footer{
+	align-items: center;
+	background: white;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: column;
+
+  	
+}
+
+.footer h3{
+	font-family: 'Abril Fatface', serif;
+  	color: #2a4241;
+  	font-weight: lighter;
+  	font-size: 22px;
+  	text-align: center;
+  	padding-top: 10px;
+  	border-bottom : 10px solid #faf5e4;
+  	border-width: 16px;
+  	line-height: 2px;
+
+}
+
+.footer a{
+	text-decoration: none;
+}
+
+.footer img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer:hover{
+	box-shadow: 0px 0px 10px rgba(42,66,65,0.2);
+}
+
+.footer p{
+	font-family: 'Playfair Display', serif;
+  	color: #2a4241;
+  	font-size: 15px;
+  	padding-bottom: 10px;
+  	padding-top: 5px;
+
+}

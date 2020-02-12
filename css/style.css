@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Merriweather|Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/footer.css');
+@import url('components/content.css');
+
+body{
+	font-family: 'Merriweather', serif;
+	font-size: 10px
+	margin: 0px;
+	background-color: #faf5e4;
+
+}
+
+
+h1{
+	font-size: 48px;
+}
+
+h2,h3{
+	font-size: 30px;
+	color:white;
+}
+
+#logo{
+	width: 120px;
+  	height: 85px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.typeform-widget{
+		margin-bottom: 30px;
+		margin-top:30px;
+}
+

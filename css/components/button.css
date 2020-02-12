@@ -1,0 +1,16 @@
+
+.btn{
+	background-color: #f8b400;
+	color: #faf5e4;
+	text-decoration: none;
+	font-family: 'Merriweather', serif;
+	padding: 10px 35px;
+	box-shadow: 4px 10px 20px rgba(0;0;0;0.2);
+	transition: 0.5s;
+
+}
+
+.btn:hover {
+	background-color: #faf5e4;
+	color:#f8b400;
+}
